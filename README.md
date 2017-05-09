@@ -1,2 +1,2 @@
 # Hello_world
-This is our first repository. Here we aregoing to store info about our projects, income, credentials, etc
+This is our first repository. Here we are going to store info about our projects, income, credentials, etc
